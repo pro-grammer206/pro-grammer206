@@ -6,7 +6,6 @@
 4. **Golang**
 
 ### Javascript Libraries used
-1. Jquery
 2. React
 3. Nodejs
 4. Express JS
