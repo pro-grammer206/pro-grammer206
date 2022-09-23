@@ -6,10 +6,10 @@
 4. **Golang**
 
 ### Javascript Libraries used
-2. React
-3. Nodejs
-4. Express JS
-5. NextJS 
+1. React
+1. Nodejs
+1. Express JS
+1. NextJS 
 
 ### CSS Frameworks used
 1. TailwindCSS
