@@ -3,7 +3,7 @@
 1. **JAVASCRIPT**
 2. **Java**
 3. **Python**
-4. **Golang**
+
 
 ### Javascript Libraries used
 1. React
